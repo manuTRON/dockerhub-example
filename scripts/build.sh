@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t shivam2894/webserver .
+docker build -t manasmig/webserver .
